@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Exceptions1TryCatchFinally\bin\Debug\net8.0\Exceptions1TryCatchFinally.exe
+C:\Users\ET73\Downloads\projetos-c#\Exceptions1TryCatchFinally\bin\Debug\net8.0\Exceptions1TryCatchFinally.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Exceptions1TryCatchFinally\bin\Debug\net8.0\Exceptions1TryCatchFinally.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Exceptions1TryCatchFinally\bin\Debug\net8.0\Exceptions1TryCatchFinally.dll
+C:\Users\ET73\Downloads\projetos-c#\Exceptions1TryCatchFinally\bin\Debug\net8.0\Exceptions1TryCatchFinally.pdb
+C:\Users\ET73\Downloads\projetos-c#\Exceptions1TryCatchFinally\obj\Debug\net8.0\Exceptions1TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Exceptions1TryCatchFinally\obj\Debug\net8.0\Exceptions1TryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Exceptions1TryCatchFinally\obj\Debug\net8.0\Exceptions1TryCatchFinally.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Exceptions1TryCatchFinally\obj\Debug\net8.0\Exceptions1TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Exceptions1TryCatchFinally\obj\Debug\net8.0\Exceptions1TryCatchFinally.dll
+C:\Users\ET73\Downloads\projetos-c#\Exceptions1TryCatchFinally\obj\Debug\net8.0\refint\Exceptions1TryCatchFinally.dll
+C:\Users\ET73\Downloads\projetos-c#\Exceptions1TryCatchFinally\obj\Debug\net8.0\Exceptions1TryCatchFinally.pdb
+C:\Users\ET73\Downloads\projetos-c#\Exceptions1TryCatchFinally\obj\Debug\net8.0\Exceptions1TryCatchFinally.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Exceptions1TryCatchFinally\obj\Debug\net8.0\ref\Exceptions1TryCatchFinally.dll
